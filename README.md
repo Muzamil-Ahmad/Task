@@ -12,7 +12,8 @@ php artisan serve( navigate:localhost:8000)
 
 
 ### use Postman to hit api
-API collection 
+API collection:
+
 https://www.getpostman.com/collections/8a0931da9a2941031f94
 
 Environment Variables
