@@ -1,5 +1,5 @@
 
-## Technology User
+## Technology Used
 
 Laraval,MySql
 
